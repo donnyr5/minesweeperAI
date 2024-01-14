@@ -1,7 +1,7 @@
 # AI Minesweeper Solver
 
 ## Overview
-Create an AI that can play Minesweeper, a classic puzzle game. The game consists of a grid of cells, some containing hidden mines. The AI must use logical deduction to flag all mines without detonating any.
+Created an AI that can play Minesweeper, a classic puzzle game. The game consists of a grid of cells, some containing hidden mines. The AI must use logical deduction to flag all mines without detonating any.
 
 ## Project Description
 - **Game Basics:** Minesweeper is played on a grid with hidden mines. Safe cells show the count of neighboring mines.
